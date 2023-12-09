@@ -2,7 +2,7 @@
 feature_text: |
   ## The Road to Adminship 🤩
   A Guide for Aspiring Wikipedia Administrators
-feature_image: "keysucess.jpg"
+feature_image: "keysuccess.jpg"
 ---
 
 Here should be the introduction. 

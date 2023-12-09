@@ -7,10 +7,10 @@ feature_image: "/image_0.jpeg"
 
 Here should be the introduction. 
 
-{% include figure.html image="/image_success.jpg" caption="Image with caption" %}
+{% include figure.html image="/image_success.jpg" width="500" height="500" %}
 
 Dear lost candidate 👆, 
-We conducted this study to help you as we care about you ❤️. 
+We conducted this study for you as we care about you ❤️. 
 
 ## Section 1 
 

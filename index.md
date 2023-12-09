@@ -1,7 +1,9 @@
 ---
 feature_text: |
-  ## The Road to Adminship 🤩
+  <div style="color: white;">
+  ## The Road to Adminship 
   A Guide for Aspiring Wikipedia Administrators
+   </div>
 feature_image: "keysuccess.jpg"
 ---
 

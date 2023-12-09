@@ -2,7 +2,7 @@
 feature_text: |
   ## The Road to Adminship!
   A Guide for Aspiring Wikipedia Administrators
-feature_image: "/."
+feature_image: 
 ---
 
 Here should be the introduction. 
@@ -28,9 +28,5 @@ We conducted this study to provide you with the road of success as we care about
 
 ## Tips
 
-1. 
-2.
-
-
-
-2. 
+1. hello hello
+2.$ 

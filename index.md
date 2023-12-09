@@ -2,16 +2,16 @@
 feature_text: |
   ## The Road to Adminship!
   A Guide for Aspiring Wikipedia Administrators
-feature_image: "/image_0.jpeg"
+feature_image: "/."
 ---
 
 Here should be the introduction. 
 
-{% include figure.html image="/image_success.jpg" width="700" height="500" %}
+{% include figure.html image="/image_success.jpg" width="600" height="400" %}
 
 Dear lost candidate 👆, 
 
-We conducted this study for you as we care about you ❤️. 
+We conducted this study to provide you with the road of success as we care about you ❤️. 
 
 ## Section 1 
 
@@ -29,5 +29,8 @@ We conducted this study for you as we care about you ❤️.
 ## Tips
 
 1. 
+2.
+
+
+
 2. 
-3. 

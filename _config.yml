@@ -136,6 +136,8 @@ navigation_header:
   url: http://snap.stanford.edu/data/wiki-RfA.html
 - title: Code
   url: https://github.com/epfl-ada/ada-2023-project-datanauts23
+- title: About us
+  url: /members/
   
 # - title: Ressources
 #   children:

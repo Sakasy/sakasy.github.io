@@ -3,7 +3,7 @@ title: About Datanauts23
 feature_text: |
   ## The Road to Adminship!
   A Guide for Aspiring Wikipedia Administrators
-feature_image: "/image_test.jpg"
+feature_image: "/image_0.jpeg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 

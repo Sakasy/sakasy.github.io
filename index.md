@@ -1,10 +1,10 @@
 ---
-title: About Datanauts23
+title:
 feature_text: |
   ## The Road to Adminship!
   A Guide for Aspiring Wikipedia Administrators
 feature_image: "/image_0.jpeg"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. !!!Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.

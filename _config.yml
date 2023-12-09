@@ -93,7 +93,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "The Road to a successful Wiki Adminship" # Site name or title, also used in jekyll-seo-tag
+title: "The Road to Adminship" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/wiki_logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
 url: "https://sakasy.github.io" # Site url, also used in jekyll-seo-tag
@@ -148,7 +148,7 @@ navigation_header:
   
 
 navigation_footer:
-- title: Created by Datanauts
+- title: Created by Datanauts23
   # url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired

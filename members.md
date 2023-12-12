@@ -1,6 +1,6 @@
 ---
     feature_text: 
-    feature_image: "made_resources.png"
+    feature_image: "../datanauts.jpeg"
 ---
 
  We are **the Datanauts of the Year 2023**. 

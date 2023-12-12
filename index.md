@@ -1,10 +1,8 @@
 ---
-feature_text: |
-  <div>
-    <div style="color: black; font-weight: bold; font-size: 50px;">The Road to Adminship</div>
-    <div style="color: black;">A Guide for Aspiring Wikipedia Administrators</div>
-   </div>
-feature_image: "image_0.jpeg"
+    feature_text: |
+    ## The Road to Adminship
+    A Guide for Aspiring Wikipedia Administrators 
+    feature_image: "image_0.jpeg"
 ---
 
 Here should be the introduction. 

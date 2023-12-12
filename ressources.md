@@ -1,7 +1,6 @@
 ---
 feature_text: |
-  Here are the ressources!!!!!!!!!!!
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "made_resources.png"
 excerpt: ""
 aside: false
 ---

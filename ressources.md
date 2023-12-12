@@ -1,6 +1,6 @@
 ---
 feature_text: |
-feature_image: "made_resources.png"
+feature_image: "image_0.jpeg"
 excerpt: ""
 aside: false
 ---

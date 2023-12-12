@@ -1,7 +1,7 @@
 ---
 feature_text: |
   <div>
-    <div style="color: gold; font-weight: bold; font-size: 50px;">The Road to Adminship</div>
+    <div style="color: black; font-weight: bold; font-size: 50px;">The Road to Adminship</div>
     <div style="color: black;">A Guide for Aspiring Wikipedia Administrators</div>
    </div>
 feature_image: "image_0.jpeg"

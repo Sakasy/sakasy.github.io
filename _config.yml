@@ -132,13 +132,16 @@ navigation_header:
 # - title: Search
 #   url: /search/
 
-- title: Dataset
-  url: http://snap.stanford.edu/data/wiki-RfA.html
-- title: Code
-  url: https://github.com/epfl-ada/ada-2023-project-datanauts23
-- title: About us
-  url: /members/
-  
+# - title: Dataset
+#   url: http://snap.stanford.edu/data/wiki-RfA.html
+# - title: Code
+#   url: https://github.com/epfl-ada/ada-2023-project-datanauts23
+
+  - title: Ressources
+    url: /ressources/
+  - title: About us
+    url: /members/
+
 # - title: Ressources
 #   children:
 #     - title: Dataset

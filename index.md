@@ -1,6 +1,6 @@
 ---
 feature_text: |
-  <div style="color: white;">
+  <div style="color: black;">
     <div style="font-weight: bold; font-size: 50px;">The Road to Adminship</div>
     A Guide for Aspiring Wikipedia Administrators
    </div>

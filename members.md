@@ -1,7 +1,13 @@
 ---
-feature_text: |
-feature_image: "key.jpeg"
+    feature_text: |
+    feature_image: "key.jpeg"
 ---
 
- We are the datanauts of the year 2023. 
- We are Akram Elbouanani, Christian Doimo, Liandro Da Silva Monteiro, Murielle Iradukunda, Yasmine Sakas.  
+ We are **the Datanauts of the year 2023**.
+ 
+ We are: 
+ * Akram Elbouanani (*Section Computer Science*)
+ * Christian Doimo (*Section Microtechnology*)
+ * Liandro Da Silva Monteiro (*Section Microtechnology*)
+ * Murielle Iradukunda (*Section Mathematics*)
+ * Yasmine Sakas (*Section Mathematics*)

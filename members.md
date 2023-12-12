@@ -1,6 +1,6 @@
 ---
     feature_text: |
-    feature_image: "key.jpeg"
+    feature_image: "https://picsum.photos/2560/600?image=873"
 ---
 
  We are **the Datanauts of the year 2023**: 

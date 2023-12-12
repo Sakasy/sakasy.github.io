@@ -123,6 +123,11 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
 - title: Home
   url: /
+- title: Ressources
+  url: /ressources/
+- title: About us
+  url: /members/
+  
 # - title: Elements
 #   url: /elements/
 # - title: Blog
@@ -136,11 +141,6 @@ navigation_header:
 #   url: http://snap.stanford.edu/data/wiki-RfA.html
 # - title: Code
 #   url: https://github.com/epfl-ada/ada-2023-project-datanauts23
-
-  - title: Ressources
-    url: /ressources/
-  - title: About us
-    url: /members/
 
 # - title: Ressources
 #   children:

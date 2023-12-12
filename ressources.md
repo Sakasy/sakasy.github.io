@@ -1,6 +1,6 @@
 ---
 feature_text: 
-feature_image: "../hell.jpeg"
+feature_image: "../resource.jpeg"
 ---
 
 {% include button.html text="Code" icon="github" link="https://github.com/epfl-ada/ada-2023-project-datanauts23" %}  

@@ -13,9 +13,7 @@ This expansive platform owes much of its success to the dedicated administrators
 
 Now dear reader, if you find yourself drawn to the idea of contributing at a more impactful level within the Wikipedia community, you might be contemplating taking the step towards becoming a Wikipedia administrator. 
 
-First, you should know that there are no official prerequisites; any registered user can request administrator privileges. However, you are expected to be active, experienced, and trusted members of the community.
-
-To apply for Wikipedia administrator status, you must start by submitting a request for adminship (RfA). Subsequently, any Wikipedia member may cast a supporting, neutral, or opposing vote for you. 
+First, you should know that there are no official prerequisites; any registered user can request administrator privileges. However, you are expected to be active, experienced, and trusted members of the community. So if you are interested, you can easily apply for Wikipedia administrator status by submitting a request for adminship (RfA). Subsequently, any Wikipedia member may cast a supporting, neutral, or opposing vote for you. 
 
 As you embark on this journey, it's essential to understand the intricacies of the election process and equip yourself with valuable insights to enhance your candidacy. In the following sections, we'll guide you through the adminship election process, offering tips and advice to help you navigate the path toward becoming an esteemed Wikipedia administrator.
 

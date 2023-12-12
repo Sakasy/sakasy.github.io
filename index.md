@@ -1,7 +1,7 @@
 ---
     feature_text: |
-    ## The Road to Adminship
-    A Guide for Aspiring Wikipedia Administrators |
+        ## The Road to Adminship
+        A Guide for Aspiring Wikipedia Administrators 
     feature_image: "image_0.jpeg"
 ---
 

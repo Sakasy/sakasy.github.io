@@ -3,9 +3,7 @@
     feature_image: "key.jpeg"
 ---
 
- We are **the Datanauts of the year 2023**.
- 
- We are: 
+ We are **the Datanauts of the year 2023**: 
  * Akram Elbouanani (*Section Computer Science*)
  * Christian Doimo (*Section Microtechnology*)
  * Liandro Da Silva Monteiro (*Section Microtechnology*)

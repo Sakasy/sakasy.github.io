@@ -10,7 +10,6 @@ feature_image: "image_0.jpeg"
 Here should be the introduction. 
 
 Dear lost candidate, 
-{% include figure.html image="/image_success.jpg" width="600" height="400" %}
 We conducted this study to provide you with the road of success as we care about you ❤️. 
 
 ## Section 1 

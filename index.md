@@ -4,7 +4,7 @@ feature_text: |
     <div style="font-weight: bold; font-size: 50px;">The Road to Adminship</div>
     A Guide for Aspiring Wikipedia Administrators
    </div>
-feature_image: "keysuccess.jpg"
+feature_image: "black_wiki.png"
 ---
 
 Here should be the introduction. 

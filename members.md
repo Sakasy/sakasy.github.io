@@ -1,5 +1,5 @@
 ---
-    feature_text: |
+    feature_text: 
     feature_image: "made_resources.png"
 ---
 

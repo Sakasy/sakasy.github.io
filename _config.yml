@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "The Road to Adminship" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/wiki_logo_100.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/black_wiki.png" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
 url: "https://sakasy.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""

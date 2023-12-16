@@ -17,5 +17,13 @@ First, you should know that there are no official prerequisites; any registered 
 
 As you embark on this journey, it's essential to understand the intricacies of the election process and equip yourself with valuable insights to enhance your candidacy. In the following sections, we'll guide you through the adminship election process, offering tips and advice to help you navigate the path toward becoming an esteemed Wikipedia administrator.
 
+## Let’s uncover General Trends of Elections…
+The dataset captures a decade-long snapshot of Wikipedia's Request for Adminship (RFA) elections, from 2003 to May 2013. By examining the details of these elections, we may uncover some patterns that can offer valuable insights. Therefore, before providing you with some useful tips for a successful election, let's first analyze the general trends of the elections. While doing so, we will try to answer several important questions, providing a comprehensive understanding of the landscape.
 
+### What is the Average Number of Votes Received in Wikipedia RFA Elections Over the Years ?
+By examining the trend of the average number of votes per election over the years, you can gain insight into the anticipated vote count you might receive in the future during the voting process.
+
+You might think that every election generates the same interest in the Wikipedia community, but it turns out that voter interest varies significantly across elections. In fact, excluding the year 2013, which has the lowest number of elections recorded in our dataset and is not the most representative, 25% of the elections in a given year have fewer than 20 voters participating. Some elections even have only one voter.
+
+It's important to note that, according to the data we found on [the Guide to Requests for Adminship](https://en.wikipedia.org/wiki/Wikipedia:Guide_to_requests_for_adminship#Closure) in the closure section, the page  states that a bureaucrat will close the RfA as soon as it is feasible. This could be hours or even a day or two after the formal closing date. Additionally, our research indicates that several candidates withdraw their own candidacy shortly after the beginning of the election. But don't let that worry you; every year, there are a few outlier candidates who generate above and beyond interest. In one election, for the candidate 'TenPoundHammer,' an outstanding number of 561 votes were recorded.
 

@@ -17,7 +17,7 @@ First, you should know that there are no official prerequisites; any registered 
 
 As you embark on this journey, it's essential to understand the intricacies of the election process and equip yourself with valuable insights to enhance your candidacy. In the following sections, we'll guide you through the adminship election process, offering tips and advice to help you navigate the path toward becoming an esteemed Wikipedia administrator.
 
-### Let’s uncover General Trends of Elections…
+### Let’s uncover General Trends of Elections
 The dataset captures a decade-long snapshot of Wikipedia's Request for Adminship (RFA) elections, from 2003 to May 2013. By examining the details of these elections, we may uncover some patterns that can offer valuable insights. Therefore, before providing you with some useful tips for a successful election, let's first analyze the general trends of the elections. While doing so, we will try to answer several important questions, providing a comprehensive understanding of the landscape.
 
 ##### How has the amount of elections changed over time? Are there consistent trends in the distribution of won and lost elections across different years?

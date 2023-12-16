@@ -32,7 +32,7 @@ With an average acceptance rate of 38% from 2006 to 2012, it's evident that admi
 ##### What is the Average Number of Votes Received in Wikipedia RFA Elections Over the Years ?
 By examining the trend of the average number of votes per election over the years, you can gain insight into the anticipated vote count you might receive in the future during the voting process.
 
-<iframe src="https://chart-studio.plotly.com/~iradukun/124.embed" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://chart-studio.plotly.com/~iradukun/124.embed" width="600" height="400" frameborder="0" scrolling="no"></iframe>
 
 
 You might think that every election generates the same interest in the Wikipedia community, but it turns out that voter interest varies significantly across elections. In fact, excluding the year 2013, which has the lowest number of elections recorded in our dataset and is not the most representative, 25% of the elections in a given year have fewer than 20 voters participating. Some elections even have only one voter.

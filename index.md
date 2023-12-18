@@ -42,4 +42,3 @@ It's important to note that, according to the data we found on [the Guide to Req
 
 ##### Who votes?🤔 How does the nature of the voting populations evolve?
 
-{% include consistency_heatmap.html %}

@@ -40,3 +40,6 @@ You might think that every election generates the same interest in the Wikipedia
 
 It's important to note that, according to the data we found on [the Guide to Requests for Adminship](https://en.wikipedia.org/wiki/Wikipedia:Guide_to_requests_for_adminship#Closure) in the closure section, the page  states that a bureaucrat will close the RfA as soon as it is feasible. This could be hours or even a day or two after the formal closing date. Additionally, our research indicates that several candidates withdraw their own candidacy shortly after the beginning of the election. But don't let that worry you; every year, there are a few outlier candidates who generate above and beyond interest. In one election, for the candidate 'TenPoundHammer,' an outstanding number of 561 votes were recorded.
 
+##### Who votes?🤔 How does the nature of the voting populations evolve?
+
+{% include consistency_heatmap.html %}

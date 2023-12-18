@@ -41,4 +41,8 @@ You might think that every election generates the same interest in the Wikipedia
 It's important to note that, according to the data we found on [the Guide to Requests for Adminship](https://en.wikipedia.org/wiki/Wikipedia:Guide_to_requests_for_adminship#Closure) in the closure section, the page  states that a bureaucrat will close the RfA as soon as it is feasible. This could be hours or even a day or two after the formal closing date. Additionally, our research indicates that several candidates withdraw their own candidacy shortly after the beginning of the election. But don't let that worry you; every year, there are a few outlier candidates who generate above and beyond interest. In one election, for the candidate 'TenPoundHammer,' an outstanding number of 561 votes were recorded.
 
 ##### Who votes? How does the nature of the voting populations evolve?
+The answer to this question is pretty straightforward: any Wikipedia member can give a supporting, neutral, or opposing vote. But let's dig a bit deeper. Can we figure out who might cast their vote for your election? That is, of course, if you decide to throw your hat in the ring after going through our guide.
 
+* Plotttt
+
+The heatmap reads as follow, for any pair of years $𝑦_𝑖$, $𝑦_𝑗$, the value in the 𝑖-th row and 𝑗-th column represents the percentage of voters in year 𝑖 who also voted in year 𝑗. We can see that, over the last six years, on average, 52.68% of voters in a given year continue to vote in the following year, and about 40.46% still cast votes two years later.  Understanding the voting patterns can be a strategic advantage. If you succeed in convincing voters from the previous year and even those from two years prior, you already have a good chance of success.

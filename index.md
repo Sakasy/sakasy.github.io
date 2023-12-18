@@ -24,7 +24,9 @@ The dataset captures a decade-long snapshot of Wikipedia's Request for Adminship
 
 <iframe src="https://chart-studio.plotly.com/~iradukun/126.embed" width="800" height="500" frameborder="0" scrolling="no"></iframe>
 
-To make it easier to compare, let’s plot a yearly pie-chart of won and lost elections percentages from 2003 to 2013.
+The variation in the number of candidates each year, forming a normal distribution with a peak around 2006 and 2007, could potentially be influenced by the expansion of Wikipedia. It's worth considering that  in those particular years, there might have been increased awareness and participation in elections, leading to a surge in the number of candidates documented on Wikipedia. 
+
+To make it easier to compare between won and lost elections amounts, let’s plot a yearly pie-chart of their corresponding percentages from 2003 to 2013.
 
 <iframe src="https://chart-studio.plotly.com/~iradukun/124.embed" width="800" height="500" frameborder="0" scrolling="no"></iframe>
 

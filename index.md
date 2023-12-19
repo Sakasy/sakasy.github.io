@@ -69,17 +69,37 @@ It's also worth noting that, for the majority of cases, having less than 50% pos
 
 As mentioned before, neutral votes play a pivotal role in cases of indecision, as they are considered by bureaucrats during the evaluation process. Besides,  our analysis has revealed that a positive vote threshold of 75% tends to yield more favorable outcomes.  So, the presence of a substantial number of neutral votes may influence the outcome of your election. 
 <iframe src="https://chart-studio.plotly.com/~iradukun/178.embed" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+
 You might initially dismiss the potential impact of neutral votes, given that they constitute only 6.4% of the overall voting history in our dataset. However, a closer examination reveals that this seemingly negligible percentage harbors an uneven distribution across successful and unsuccessful elections. 
 <iframe src="https://chart-studio.plotly.com/~iradukun/185.embed" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-    
-## HEllo 
 Notably, the median proportion of neutral votes in unsuccessful elections stands at approximately 10%, a significant contrast to the 1% observed in successful elections. This indicates a tendency for unsuccessful elections to have a higher proportion of neutral votes.To attest to the significance of this discrepancy, we conduct a t-test to compare the distribution of neutral percentages between won and lost elections. With a p-value of 9.77e-198, the statistical test allows us to reject the null hypothesis, indicating that neutral votes may indeed play a role in election outcomes.
+However, we cannot conclude the analysis here, as the outcome depends on various factors, and the current analysis doesn't permit us to isolate the effect of the percentage of neutral votes. Therefore, we perform an exact one-to-one matching, considering the total number of votes and the percentage of positive votes as confounders that could influence the election outcome. Each election with no neutral votes ("treated group") is matched to an election with at least one neutral vote ("control group").
+<iframe src="https://chart-studio.plotly.com/~iradukun/191.embed" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+From this plot, it is evident that the number of unsuccessful elections is higher in the control group than in the treated group. To quantify this difference, we execute a regression analysis, revealing that, on average, the chance of being elected drops from 60% to 45% when a candidate receives neutral votes.
+
+So, given the observed impact of neutral votes, you should make efforts to minimize indecision among voters. You are advised to clearly articulate your stance, address concerns proactively, and foster an environment that encourages positive engagement. Try to build a consensus around your candidacy.
+You finished this part? 
 
 ##### NLP graphs 
 {% include figure.html image="low_cloud.png"  position="right" width="600" height="700" %}
 {% include figure.html image="need_cloud.png" position="left" width="600" height="700" %}
-{% include figure.html image="lack_cloud.png"  width="700" height="700" %}
+{% include figure.html image="lack_cloud.png" position="right" width="700" height="700" %}
 {% include figure.html image="great_cloud.png"  position="left" width="600" height="700" %}
 {% include figure.html image="knowledge_cloud.png"  position="right" width="600" height="700" %}
+
+### An important point not to neglect
+Your interactions, affiliations, and connections will all play a significant role in influencing how other users may or may not support. The following section will show you some important aspects you will have to take into account before you embark on your path towards candidacy.
+##### Unveiling the Influence of Group-Belonging on Voting Behavior
+Have you ever wondered how belonging to specific groups or communities affects the way people vote? Well, within Wikipedia elections, these affiliations can heavily influence voting tendencies. Whether it's being part of editing circles, sharing common interests, or fostering alliances through interactions, these connections impact how individuals make their electoral choices.
+
+In our quest to uncover these dynamics, we've constructed three essential networks:
+
+* **Directed Voting Network:** Here, each weighted directed edge signifies either a positive or negative vote cast by one user toward another. This network illuminates the intricate web of voting relationships among users.
+ 
+* **Agreement Network:** Within this network, edges connect users who display a significantly similar voting pattern. This network highlights significant congruence in voting behaviors among users.
+ 
+* **Similarity Network:** This network draws connections between users who have regularly interacted with the same Wikipedia articles. By doing so, it unveils the relationships among users based on their shared interactions with specific Wikipedia content.
+ 
+We then apply Louvain's algorithm to extract communities within these graphs, shifting our focus towards analyzing interactions within these communities and exploring the dynamics between different communities. Here are our main findings:
 
 

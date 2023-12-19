@@ -71,14 +71,15 @@ As mentioned before, neutral votes play a pivotal role in cases of indecision, a
 <iframe src="https://chart-studio.plotly.com/~iradukun/178.embed" width="800" height="500" frameborder="0" scrolling="no"></iframe>
 You might initially dismiss the potential impact of neutral votes, given that they constitute only 6.4% of the overall voting history in our dataset. However, a closer examination reveals that this seemingly negligible percentage harbors an uneven distribution across successful and unsuccessful elections. 
 
-<iframe src="https://chart-studio.plotly.com/~iradukun/185.embed" width="800" height="600" frameborder="0" scrolling="no"></ifram
+<iframe src="https://chart-studio.plotly.com/~iradukun/185.embed" width="800" height="600" frameborder="0" scrolling="no"></ifram>
 
 Notably, the median proportion of neutral votes in unsuccessful elections stands at approximately 10%, a significant contrast to the 1% observed in successful elections. This indicates a tendency for unsuccessful elections to have a higher proportion of neutral votes.To attest to the significance of this discrepancy, we conduct a t-test to compare the distribution of neutral percentages between won and lost elections. With a p-value of 9.77e-198, the statistical test allows us to reject the null hypothesis, indicating that neutral votes may indeed play a role in election outcomes.
 
 ##### NLP graphs 
-{% include figure.html image="low_cloud.png"  position="right" width="400" height="700" %}
-
-{% include figure.html image="need_cloud.png" position="left" width="400" height="700" %}
-
+{% include figure.html image="low_cloud.png"  position="right" width="600" height="700" %}
+{% include figure.html image="need_cloud.png" position="left" width="600" height="700" %}
+{% include figure.html image="lack_cloud.png"  width="700" height="700" %}
+{% include figure.html image="great_cloud.png"  position="left" width="600" height="700" %}
+{% include figure.html image="knowledge_cloud.png"  position="right" width="600" height="700" %}
 
 

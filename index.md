@@ -64,3 +64,15 @@ Of course, the type of votes you receive plays a crucial role. [The Wikipedia gu
 You can notice that there are some exceptions that have a very high positive vote percentage, yet end up not being elected, and vice-versa. Which echoes the fact that a certain percentage of votes is not a guarantee of a successful election. Indeed, there are even cases where candidates were rejected even if 100% of the votes they received were positive. But, you should note that for the majority of these elections, either the candidate refused the nomination, or the election was withdrawn by a bureaucrat who deemed the candidate unprepared. Thus, the percentage of positive votes remains at 100% due to the sudden end of the election but the recorded outcome is unsuccessful. 
 It's also worth noting that, for the majority of cases, having less than 50% positive votes appears to guarantee election failure. Additionally, only 6.66% of candidates who fall short of the indicative threshold of 75% positive votes manage successful elections. Keep these thresholds in mind as you gather a substantial number of positive votes to enhance your chances of election success.
 <iframe src="https://chart-studio.plotly.com/~iradukun/170.embed" width="700" height="600" frameborder="0" scrolling="no"></iframe>
+
+##### Do neutral votes matter?
+
+As mentioned before, neutral votes play a pivotal role in cases of indecision, as they are considered by bureaucrats during the evaluation process. Besides,  our analysis has revealed that a positive vote threshold of 75% tends to yield more favorable outcomes.  So, the presence of a substantial number of neutral votes may influence the outcome of your election. 
+<iframe src="https://chart-studio.plotly.com/~iradukun/178.embed" width="600" height="500" frameborder="0" scrolling="no"></iframe>
+You might initially dismiss the potential impact of neutral votes, given that they constitute only 6.4% of the overall voting history in our dataset. However, a closer examination reveals that this seemingly negligible percentage harbors an uneven distribution across successful and unsuccessful elections. 
+
+[Plot]
+
+Notably, the median proportion of neutral votes in unsuccessful elections stands at approximately 10%, a significant contrast to the 1% observed in successful elections. This indicates a tendency for unsuccessful elections to have a higher proportion of neutral votes.To attest to the significance of this discrepancy, we conduct a t-test to compare the distribution of neutral percentages between won and lost elections. With a p-value of 9.77e-198, the statistical test allows us to reject the null hypothesis, indicating that neutral votes may indeed play a role in election outcomes.
+
+

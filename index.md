@@ -68,7 +68,7 @@ It's also worth noting that, for the majority of cases, having less than 50% pos
 ##### Do neutral votes matter?
 
 As mentioned before, neutral votes play a pivotal role in cases of indecision, as they are considered by bureaucrats during the evaluation process. Besides,  our analysis has revealed that a positive vote threshold of 75% tends to yield more favorable outcomes.  So, the presence of a substantial number of neutral votes may influence the outcome of your election. 
-<iframe src="https://chart-studio.plotly.com/~iradukun/178.embed" width="700" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://chart-studio.plotly.com/~iradukun/178.embed" width="800" height="500" frameborder="0" scrolling="no"></iframe>
 You might initially dismiss the potential impact of neutral votes, given that they constitute only 6.4% of the overall voting history in our dataset. However, a closer examination reveals that this seemingly negligible percentage harbors an uneven distribution across successful and unsuccessful elections. 
 
 [Plot]

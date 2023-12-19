@@ -70,9 +70,9 @@ It's also worth noting that, for the majority of cases, having less than 50% pos
 As mentioned before, neutral votes play a pivotal role in cases of indecision, as they are considered by bureaucrats during the evaluation process. Besides,  our analysis has revealed that a positive vote threshold of 75% tends to yield more favorable outcomes.  So, the presence of a substantial number of neutral votes may influence the outcome of your election. 
 <iframe src="https://chart-studio.plotly.com/~iradukun/178.embed" width="800" height="500" frameborder="0" scrolling="no"></iframe>
 You might initially dismiss the potential impact of neutral votes, given that they constitute only 6.4% of the overall voting history in our dataset. However, a closer examination reveals that this seemingly negligible percentage harbors an uneven distribution across successful and unsuccessful elections. 
-
 <iframe src="https://chart-studio.plotly.com/~iradukun/185.embed" width="800" height="600" frameborder="0" scrolling="no"></ifram>
-
+    
+## HEllo 
 Notably, the median proportion of neutral votes in unsuccessful elections stands at approximately 10%, a significant contrast to the 1% observed in successful elections. This indicates a tendency for unsuccessful elections to have a higher proportion of neutral votes.To attest to the significance of this discrepancy, we conduct a t-test to compare the distribution of neutral percentages between won and lost elections. With a p-value of 9.77e-198, the statistical test allows us to reject the null hypothesis, indicating that neutral votes may indeed play a role in election outcomes.
 
 ##### NLP graphs 

@@ -77,8 +77,8 @@ Notably, the median proportion of neutral votes in unsuccessful elections stands
 
 ##### NLP graphs 
 {% include figure.html image="low_cloud.png"  position="right" width="500" height="800" %}
+
 {% include figure.html image="need_cloud.png" position="left" width="500" height="800" %}
-{% include figure.html image="lack_cloud.png"  width="700" height="800" %}
-{% include figure.html image="great_cloud.png"  position="left" width="500" height="800" %}
-{% include figure.html image="knowledge_cloud.png"  position="right" width="500" height="800" %}
+
+
 

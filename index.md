@@ -43,6 +43,6 @@ It's important to note that, according to the data we found on [the Guide to Req
 ##### Who votes? How does the nature of the voting populations evolve?
 The answer to this question is pretty straightforward: any Wikipedia member can give a supporting, neutral, or opposing vote. But let's dig a bit deeper. Can we figure out who might cast their vote for your election? That is, of course, if you decide to throw your hat in the ring after going through our guide.
 
-{% include include_file.html file_path="/path/to/your/file.html" %}
+{% include include_file.html file_path="./consistency_heatmap.html" %}
 
 The heatmap reads as follow, for any pair of years $𝑦_𝑖$, $𝑦_𝑗$, the value in the 𝑖-th row and 𝑗-th column represents the percentage of voters in year 𝑖 who also voted in year 𝑗. We can see that, over the last six years, on average, 52.68% of voters in a given year continue to vote in the following year, and about 40.46% still cast votes two years later.  Understanding the voting patterns can be a strategic advantage. If you succeed in convincing voters from the previous year and even those from two years prior, you already have a good chance of success.

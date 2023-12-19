@@ -80,13 +80,13 @@ From this plot, it is evident that the number of unsuccessful elections is highe
 So, given the observed impact of neutral votes, you should make efforts to minimize indecision among voters. You are advised to clearly articulate your stance, address concerns proactively, and foster an environment that encourages positive engagement. Try to build a consensus around your candidacy.
 You finished this part? 
 
-##### NLP graphs  
+##### NLP graphs
+{% include figure.html image="low_cloud.png"  position="right" width="600" height="700" %}
+{% include figure.html image="need_cloud.png" position="left" width="600" height="700" %}
+{% include figure.html image="lack_cloud.png" position="right" width="600" height="700" %}
+{% include figure.html image="great_cloud.png"  position="left" width="600" height="700" %}
+{% include figure.html image="knowledge_cloud.png"  position="right" width="600" height="700" %}    
 
-{% include figure.html image="low_cloud.png"  position="right" width="500" height="700" %}
-{% include figure.html image="need_cloud.png" position="left" width="500" height="700" %}
-{% include figure.html image="lack_cloud.png" position="right" width="500" height="700" %}
-{% include figure.html image="great_cloud.png"  position="left" width="500" height="700" %}
-{% include figure.html image="knowledge_cloud.png"  position="right" width="500" height="700" %}  
 
 ### An important point not to neglect
 Your interactions, affiliations, and connections will all play a significant role in influencing how other users may or may not support. The following section will show you some important aspects you will have to take into account before you embark on your path towards candidacy.

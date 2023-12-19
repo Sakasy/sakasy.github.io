@@ -76,9 +76,9 @@ You might initially dismiss the potential impact of neutral votes, given that th
 Notably, the median proportion of neutral votes in unsuccessful elections stands at approximately 10%, a significant contrast to the 1% observed in successful elections. This indicates a tendency for unsuccessful elections to have a higher proportion of neutral votes.To attest to the significance of this discrepancy, we conduct a t-test to compare the distribution of neutral percentages between won and lost elections. With a p-value of 9.77e-198, the statistical test allows us to reject the null hypothesis, indicating that neutral votes may indeed play a role in election outcomes.
 
 ##### NLP graphs 
-{% include figure.html image="low_cloud.png" caption="low cloud" position="right" width="300" height="800" %}
-{% include figure.html image="need_cloud.png" caption="need cloud" position="left" width="300" height="800" %}
-{% include figure.html image="lack_cloud.png" caption="lack cloud" width="300" height="800" %}
-{% include figure.html image="great_cloud.png" caption="great cloud" position="right" width="300" height="800" %}
-{% include figure.html image="knowledge_cloud.png" caption="knowledge cloud" position="left" width="300" height="800" %}
+{% include figure.html image="low_cloud.png" caption="low cloud" position="right" width="500" height="900" %}
+{% include figure.html image="need_cloud.png" caption="need cloud" position="left" width="500" height="900" %}
+{% include figure.html image="lack_cloud.png" caption="lack cloud" width="600" height="900" %}
+{% include figure.html image="great_cloud.png" caption="great cloud" position="right" width="500" height="900" %}
+{% include figure.html image="knowledge_cloud.png" caption="knowledge cloud" position="left" width="500" height="900" %}
 

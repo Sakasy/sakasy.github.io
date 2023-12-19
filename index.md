@@ -87,6 +87,7 @@ You finished this part?
 {% include figure.html image="great_cloud.png"  position="left" width="600" height="700" %}
 {% include figure.html image="knowledge_cloud.png"  position="right" width="600" height="700" %}
 
+
 ### An important point not to neglect
 Your interactions, affiliations, and connections will all play a significant role in influencing how other users may or may not support. The following section will show you some important aspects you will have to take into account before you embark on your path towards candidacy.
 ##### Unveiling the Influence of Group-Belonging on Voting Behavior

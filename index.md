@@ -103,7 +103,7 @@ In our quest to uncover these dynamics, we've constructed three essential networ
  
 We then apply Louvain's algorithm to extract communities within these graphs, shifting our focus towards analyzing interactions within these communities and exploring the dynamics between different communities. Here are our main findings:
 
-### <span style="color:green">A Farewell Message for the Future Administrator:</span>
+##### <span style="color:green">A Farewell Message for the Future Administrator:</span>
 
 Dear Future Wikipedia Administrator,
 

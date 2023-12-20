@@ -88,7 +88,7 @@ You finished this part?
 {% include figure.html image="knowledge_cloud.png"  position="right" width="600" height="700" %}    
 
 
-### An important point not to neglect
+### Important point not to neglect
 Your interactions, affiliations, and connections will all play a significant role in influencing how other users may or may not support. The following section will show you some important aspects you will have to take into account before you embark on your path towards candidacy.
 ##### Unveiling the Influence of Group-Belonging on Voting Behavior
 Have you ever wondered how belonging to specific groups or communities affects the way people vote? Well, within Wikipedia elections, these affiliations can heavily influence voting tendencies. Whether it's being part of editing circles, sharing common interests, or fostering alliances through interactions, these connections impact how individuals make their electoral choices.
@@ -102,5 +102,21 @@ In our quest to uncover these dynamics, we've constructed three essential networ
 * **Similarity Network:** This network draws connections between users who have regularly interacted with the same Wikipedia articles. By doing so, it unveils the relationships among users based on their shared interactions with specific Wikipedia content.
  
 We then apply Louvain's algorithm to extract communities within these graphs, shifting our focus towards analyzing interactions within these communities and exploring the dynamics between different communities. Here are our main findings:
+
+### <span style="color:green">A Farewell Message for the Future Administrator:</span>
+
+Dear Future Wikipedia Administrator,
+
+Becoming a Wikipedia administrator isn't just about gaining a title; it's about embracing a thrilling journey filled with challenges and opportunities. Your path to success combines the finesse of editing and creating content with the art of engaging with the community. Being an active member, contributing regularly, and fostering relationships with your peers are the keys that unlock the doors to victory.
+
+Picture this: You're not just an editor; you're a reliable contributor, a passionate conversationalist, and a committed voter in the elections. These actions aren't just steps; they're leaps toward securing your place in the administrator's realm.
+
+But here's the twist: Within this vibrant community, biases can exist. Users might rally around their own, forming tight-knit groups. But fear not, for networking is your superpower! Find your tribe, engage with those who share your passions, and blend in rather than stand apart. Your alliances will be your strength.
+
+Now, let's talk about ethics. This isn't just a game—it's about shouldering immense responsibility. You're not just vying for a position; you're taking on a vital role in safeguarding the integrity of this encyclopedia. So, take a moment for introspection. Ask yourself, "Am I ready for this responsibility?"
+
+
+> Remember, this isn't just about winning an election; it's about being a guardian of knowledge, entrusted with upholding the principles that define Wikipedia.
+> Best of luck on your exhilarating quest to become a Wikipedia administrator!
 
 

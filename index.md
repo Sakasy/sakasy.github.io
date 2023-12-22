@@ -63,7 +63,7 @@ Of course, the type of votes you receive plays a crucial role. [The Wikipedia gu
 <iframe src="https://chart-studio.plotly.com/~iradukun/162.embed" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 You can notice that there are some exceptions that have a very high positive vote percentage, yet end up not being elected, and vice-versa. Which echoes the fact that a certain percentage of votes is not a guarantee of a successful election. Indeed, there are even cases where candidates were rejected even if 100% of the votes they received were positive. But, you should note that for the majority of these elections, either the candidate refused the nomination, or the election was withdrawn by a bureaucrat who deemed the candidate unprepared. Thus, the percentage of positive votes remains at 100% due to the sudden end of the election but the recorded outcome is unsuccessful. 
 It's also worth noting that, for the majority of cases, having less than 50% positive votes appears to guarantee election failure. Additionally, only 6.66% of candidates who fall short of the indicative threshold of 75% positive votes manage successful elections. Keep these thresholds in mind as you gather a substantial number of positive votes to enhance your chances of election success.
-<iframe src="https://chart-studio.plotly.com/~iradukun/204.embed" width="700" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://chart-studio.plotly.com/~iradukun/223.embed" width="700" height="600" frameborder="0" scrolling="no"></iframe>
 
 ##### Do neutral votes matter?
 

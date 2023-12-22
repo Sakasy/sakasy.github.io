@@ -106,9 +106,7 @@ We then apply Louvain's algorithm to extract communities within these graphs, sh
 1. Users with a substantial history of mutual agreement tend to reciprocate with positive votes towards each other more frequently. Therefore, you must focus on fostering agreements and collaborations with other users. Engage actively in discussions, collaborate on editing projects, and aim to align your viewpoints with fellow community members. Building these alliances can increase the likelihood of receiving positive votes for your candidacy.
 [plot boxplot 3]
 2. Our analysis identifies communities of users demonstrating consistent agreement. Within these tightly-knit communities, the proportion of positive votes exchanged is above the average voting tendency. Therefore, aim to prioritize active participation within a community. Contribute meaningfully and engage constructively to earn support. Investing effort in building relationships within these groups can significantly boost the chances of your candidacy.
-
 {% include figure.html image="./matrix_akram.png" %}
-
 3. Notably, distinct groups of members engage with similar content categories such as Sports, Politics, History, Cinema, among others. These affinity groups exhibit a higher likelihood of casting positive votes toward fellow members with shared interests in specific content types. Thus, tailor your engagement to match these content-based groups. Show your enthusiasm and make substantial contributions within these thematic areas. By aligning your interests with these groups, you'll increase the chances of receiving positive votes from members who share similar passions.
 
 [2 plots]

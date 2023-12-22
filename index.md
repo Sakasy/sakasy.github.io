@@ -181,10 +181,10 @@ As we delved into the feedback from voters, several key insights emerged regardi
 
 ### Voting pattern to adopt
 
-An interesting question is whether the nature of votes you cast have an impact on your election. To address this question, we looked at the voting patterns of each candidate and examined the number of times they voted in accordance with the outcomes of previous elections. Consequently, we have introduced a new factor "voted similarly" which indicates the percentage of times a candidate voted with the majority or not. We then separated the candidates who were elected from those who were not, to calculate the average "voted similarly" for each group. The result is shown in the bar plot below:
+An interesting question is whether the nature of votes you cast have an impact on your election. To address this question, we looked at the voting patterns of each candidate and examined the number of times they voted in accordance with the election outcomes. Consequently, we have introduced a new factor "voted similarly" which indicates the percentage of times a candidate voted with the majority or not. We then separated the candidates who were elected from those who were not, to calculate the average "voted similarly" for each group. The result is shown in the bar plot below:
 <iframe src="https://chart-studio.plotly.com/~iradukun/221.embed" width="700" height="600" frameborder="0" scrolling="no"></iframe>
 
-The graph shows a significant difference between the similar votes of elected and non-elected individuals. We also performed a statistical test that supports the fact that there is indeed a significant difference. The result suggests that individuals who vote with the majority are more likely to get elected. Therefore, if you aim to increase your chances of being elected, it would be strategic to align your voting with the majority.
+The graph shows a significant difference between the similar votes of elected and non-elected individuals. We also performed a statistical test that supports the fact that there is indeed a significant difference. The result suggests that individuals who vote with the majority may be more likely to get elected. Therefore, if you aim to increase your chances of being elected, it would be strategic to align your voting with the majority.
 
 ### Important point not to neglect
 

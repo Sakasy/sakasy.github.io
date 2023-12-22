@@ -188,7 +188,7 @@ As we delved into the feedback from voters, several key insights emerged regardi
 
 {% include button.html text="Edit summary ✍️" link="https://en.wikipedia.org/wiki/Help:Edit_summary" %}{% include button.html text="Mainspace 📜" link="https://en.wikipedia.org/wiki/Template:User_mainspace_edits" %}{% include button.html text="Wikipedia policies ⚖️" link="https://en.wikipedia.org/wiki/Category:Wikipedia_policies" %}{% include button.html text="Deletion 🧹" link="https://en.wikipedia.org/wiki/Wikipedia:Guide_to_deletion" %}{% include button.html text="Deal with vandalism ⚠️" link="https://en.wikipedia.org/wiki/Wikipedia:How_to_deal_with_vandalism" %}
 
-### Voting pattern to adopt
+### The Impact of Aligning with the Majority
 
 An interesting question is whether the nature of votes you cast have an impact on your election. To address this question, we looked at the voting patterns of each candidate and examined the number of times they voted in accordance with the election outcomes. Consequently, we have introduced a new factor "voted similarly" which indicates the percentage of times a candidate voted with the majority or not. We then separated the candidates who were elected from those who were not, to calculate the average "voted similarly" for each group. The result is shown in the bar plot below:
 <iframe src="https://chart-studio.plotly.com/~iradukun/221.embed" width="700" height="600" frameborder="0" scrolling="no"></iframe>

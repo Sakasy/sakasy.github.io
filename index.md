@@ -115,9 +115,10 @@ Overall, in this first part of our analysis, you have seen that while surpassing
 - *Factors you can directly influence* : previous participation as a voter in the voting process as well as a history of edits and revisions.
 - *Factors you can indirectly influence* : the number of voters participating in the election and the percentage of neutral votes the candidate receives
 
-Although, all of these factors don't depend entirely on you, you are able to influence them by developing the right skills or creating affinity with a Wikipedia community sharing the same interests. Stay with us to know more about this !
+Although, all of these factors don't depend entirely on you, you are able to influence them by developing the right skills or creating affinity with a Wikipedia community sharing the same interests. Stay with us to know more about this!
 
-##### NLP graphs
+### Let’s discover the criteria on which voters based their voting choices
+
 {% include figure.html image="low_cloud.png"  position="right" width="600" height="700" %}
 {% include figure.html image="need_cloud.png" position="left" width="600" height="700" %}
 {% include figure.html image="lack_cloud.png" position="right" width="600" height="700" %}
@@ -164,7 +165,7 @@ Although, all of these factors don't depend entirely on you, you are able to inf
 <br>
 <br>
 <br>
-
+<br>
 Within these Word Clouds, numerous insightful recommendations for aspiring administrators come to light. Criteria related to experience, such as "need experience", "low edit count", and "low activity" are discernible. Additionally, a diverse range of knowledge in various Wikipedia domains, such as "edit summary", "deletion", and "vandal fighter" is highlighted. Furthermore, a crucial aspect is familiarity with Wikipedia policies. Several aspects with a negative nature come to the forefront, potentially indicating areas where the future administrator should concentrate their attention. However, positive attributes are also evident, such as being a "great editor", a "great article writer" or a "great contributor".
 
 * **Hint:** Refer to the following resources for a comprehensive understanding:

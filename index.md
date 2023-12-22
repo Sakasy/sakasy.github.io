@@ -118,6 +118,13 @@ Overall, in this first part of our analysis, you have seen that while surpassing
 Although, all of these factors don't depend entirely on you, you are able to influence them by developing the right skills or creating affinity with a Wikipedia community sharing the same interests. Stay with us to know more about this!
 
 ##### Let’s discover the criteria on which voters based their voting choices
+As previously observed, votes can be categorized as positive, neutral, or negative. However, voters also have the option to provide comments explaining their choices. In this section, our focus shifts to the analysis of these comments within our dataset. Our approach involves assigning a sentiment score (*polarity*) to each comment, ranging from -1 (indicating a negative comment) to +1 (indicating a positive comment). Additionally, we incorporate a subjectivity measure for each comment, where 0 signifies objectivity and 1 represents subjectivity. In the following analysis, we have chosen to consider only comments with significant subjectivity.
+
+The subsequent stage involves attempting to cluster comments with similar topics. We proceed to cluster comments across 25 different topics. Upon examining the *polarity* of all these topics, it becomes apparent that certain topics exhibit more positive sentiments compared to others. The key terms representing the three most positive categories include “positive”, “interaction”, “experienced”, “helpful” and “friendly”.
+
+However, extracting actionable tips for future administrators can be challenging. To address this, we opted for manual clustering based on six predefined topics: hardskills, softskills, friendship, experience, negative comments, and others.
+
+As we delved into the feedback from voters, several key insights emerged regarding the skills needed to enhance the chances of acceptance. These insights were categorized into areas of need, deficiency, excellence, and areas of lower proficiency. The following graphs illustrate the trends and patterns surrounding these key skill sets:
 
 {% include figure.html image="low_cloud.png"  position="right" width="600" height="700" %}
 {% include figure.html image="need_cloud.png" position="left" width="600" height="700" %}

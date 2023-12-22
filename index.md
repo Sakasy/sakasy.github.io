@@ -63,7 +63,7 @@ Of course, the type of votes you receive plays a crucial role. [The Wikipedia gu
 <iframe src="https://chart-studio.plotly.com/~iradukun/162.embed" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 You can notice that there are some exceptions that have a very high positive vote percentage, yet end up not being elected, and vice-versa. Which echoes the fact that a certain percentage of votes is not a guarantee of a successful election. Indeed, there are even cases where candidates were rejected even if 100% of the votes they received were positive. But, you should note that for the majority of these elections, either the candidate refused the nomination, or the election was withdrawn by a bureaucrat who deemed the candidate unprepared. Thus, the percentage of positive votes remains at 100% due to the sudden end of the election but the recorded outcome is unsuccessful. 
 It's also worth noting that, for the majority of cases, having less than 50% positive votes appears to guarantee election failure. Additionally, only 6.66% of candidates who fall short of the indicative threshold of 75% positive votes manage successful elections. Keep these thresholds in mind as you gather a substantial number of positive votes to enhance your chances of election success.
-<iframe src="https://chart-studio.plotly.com/~iradukun/170.embed" width="700" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://chart-studio.plotly.com/~iradukun/204.embed" width="700" height="600" frameborder="0" scrolling="no"></iframe>
 
 ##### Do neutral votes matter?
 
@@ -79,6 +79,41 @@ From this plot, it is evident that the number of unsuccessful elections is highe
 
 So, given the observed impact of neutral votes, you should make efforts to minimize indecision among voters. You are advised to clearly articulate your stance, address concerns proactively, and foster an environment that encourages positive engagement. Try to build a consensus around your candidacy.
 You finished this part? 
+
+### Do I need any experience?
+
+Yes, of course, you cannot wake up one day and simply decide to be a Wikipedia administrator. Until now, we've discussed factors that you can't directly control: the total number of votes and the percentage of neutral votes. Let's shift our focus to what you can do to enhance your profile as a strong, committed candidate.
+
+Firstly, let's explore whether participating as a voter in a wiki RfA before your candidacy can positively impact your chances of acceptance.
+
+<iframe src="https://chart-studio.plotly.com/~iradukun/170.embed" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+
+The bar chart illustrates a distinction between candidates with prior participation in the voting process and those without. Notably, 61% of candidates with previous engagement were successfully accepted as administrators, compared to only 36% of candidates lacking prior participation. Furthermore, employing a chi-square statistical test allowed us to reject the hypothesis that this difference could be attributed to chance alone.
+
+However, it's crucial to recognize that concluding here might be premature. The factor of previous participation could be correlated with the total number of votes one receives or the percentage of positive votes. Therefore, the influence of previous participation may be confounded by these variables. To address this, we delve deeper by evaluating the effect of prior participation, considering covariates like the total number of votes and the percentage of positive and negative votes in the propensity score. This involves matching a candidate with previous participation (treated group) to a candidate without prior engagement (control group) with a similar propensity score.
+
+<iframe src="https://chart-studio.plotly.com/~iradukun/206.embed" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+
+The plot highlights a discernible trend: candidates with at least one prior participation as voters exhibit a higher success rate in elections. A regression analysis further reveals that candidates with at least one previous participation as voters have, on average, a 61.3% chance of being elected, compared to only 36.3% for candidates who don't.
+
+In essence, actively engaging as a voter in wiki RfA elections before your candidacy can strategically guide you through the election process. This involvement not only familiarizes you with the election dynamics but also contributes to a higher success rate, as observed in candidates with prior participation.
+
+
+However, participating previously as a voter in the wiki RfA is not an experience in itself, right? So, let's now analyze the influence of having done revisions on a page of the English Wikipedia.
+
+<iframe src="https://chart-studio.plotly.com/~iradukun/214.embed" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+The graph above indicates that 81% of the candidates had previously made revisions on a wiki page before their candidacy, with half of them having completed more than 3500 revisions before running for adminship. From our dataset, we cannot precisely determine the significance of these revisions, but as observed, it is a prevalent trend among candidates to showcase their commitment to the Wikipedia community through editing work. If you currently lack an edit history in your account, you might want to reconsider and roll up your sleeves, as this is even cited in the Wikipedia guide for RfA (https://en.wikipedia.org/wiki/Wikipedia:Guide_to_requests_for_adminship#What_RfA_contributors_look_for_and_hope_to_see ) as one of the characteristics highly expected from a candidate.
+
+<iframe src="https://chart-studio.plotly.com/~iradukun/217.embed" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+A substantial proportion of candidates without any prior revisions faces rejection, with only 32.2% of them experiencing a successful election. Within the group of candidates with prior revisions, although the numerical difference between the 47.4% of rejected candidates and the 52.6% of accepted candidates may appear small, a statistical t-test suggests that this difference is indeed significant.
+Therefore, if you find yourself lacking an edit history, consider actively participating in wiki page revisions to demonstrate your commitment and increase your chances of a successful adminship candidacy.
+
+Overall, in this first part of our analysis, you have seen that while surpassing the 75% threshold for the percentage of positive votes is crucial, there are additional factors that can bolster your candidacy. So far, these factors can be categorized into two groups:
+
+- *Factors you can directly influence* : previous participation as a voter in the voting process as well as a history of edits and revisions.
+- *Factors you can indirectly influence* : the number of voters participating in the election and the percentage of neutral votes the candidate receives
+
+Although, all of these factors don't depend entirely on you, you are able to influence them by developing the right skills or creating affinity with a Wikipedia community sharing the same interests. Stay with us to know more about this !
 
 ##### NLP graphs
 {% include figure.html image="low_cloud.png"  position="right" width="600" height="700" %}

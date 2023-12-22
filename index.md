@@ -213,6 +213,8 @@ We then apply Louvain's algorithm to extract communities within these graphs, sh
 
 Just like in your day-to-day interactions, here on Wikipedia, networking is crucial. Building positive relationships, engaging with the right individuals, and steering clear of conflicts can significantly boost your chances of success in the elections. Your network of supporters and allies can sway votes in your favor, underscoring the importance of nurturing these social connections.
 
+{% include figure.html image="meme.jpg" width="600" height="600" %}
+
 ##### <span style="color:green">A Farewell Message for the Future Administrator:</span>
 <br>
 Dear Future Wikipedia Administrator,

@@ -86,13 +86,13 @@ Yes, of course, you cannot wake up one day and simply decide to be a Wikipedia a
 
 Firstly, let's explore whether participating as a voter in a wiki RfA before your candidacy can positively impact your chances of acceptance.
 
-<iframe src="https://chart-studio.plotly.com/~iradukun/170.embed" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://chart-studio.plotly.com/~iradukun/170.embed" width="700" height="600" frameborder="0" scrolling="no"></iframe>
 
 The bar chart illustrates a distinction between candidates with prior participation in the voting process and those without. Notably, 61% of candidates with previous engagement were successfully accepted as administrators, compared to only 36% of candidates lacking prior participation. Furthermore, employing a chi-square statistical test allowed us to reject the hypothesis that this difference could be attributed to chance alone.
 
 However, it's crucial to recognize that concluding here might be premature. The factor of previous participation could be correlated with the total number of votes one receives or the percentage of positive votes. Therefore, the influence of previous participation may be confounded by these variables. To address this, we delve deeper by evaluating the effect of prior participation, considering covariates like the total number of votes and the percentage of positive and negative votes in the propensity score. This involves matching a candidate with previous participation (treated group) to a candidate without prior engagement (control group) with a similar propensity score.
 
-<iframe src="https://chart-studio.plotly.com/~iradukun/206.embed" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://chart-studio.plotly.com/~iradukun/206.embed" width="700" height="600" frameborder="0" scrolling="no"></iframe>
 
 The plot highlights a discernible trend: candidates with at least one prior participation as voters exhibit a higher success rate in elections. A regression analysis further reveals that candidates with at least one previous participation as voters have, on average, a 61.3% chance of being elected, compared to only 36.3% for candidates who don't.
 
@@ -101,12 +101,12 @@ In essence, actively engaging as a voter in wiki RfA elections before your candi
 
 However, participating previously as a voter in the wiki RfA is not an experience in itself, right? So, let's now analyze the influence of having done revisions on a page of the English Wikipedia.
 
-<iframe src="https://chart-studio.plotly.com/~iradukun/214.embed" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://chart-studio.plotly.com/~iradukun/214.embed" width="850" height="600" frameborder="0" scrolling="no"></iframe>
 The graph above indicates that 81% of the candidates had previously made revisions on a wiki page before their candidacy, with half of them having completed more than 3500 revisions before running for adminship. From our dataset, we cannot precisely determine the significance of these revisions, but as observed, it is a prevalent trend among candidates to showcase their commitment to the Wikipedia community through editing work. If you currently lack an edit history in your account, you might want to reconsider and roll up your sleeves, as this is even cited in 
 [the Wikipedia guide for Requests for RfA](https://en.wikipedia.org/wiki/Wikipedia:Guide_to_requests_for_adminship#What_RfA_contributors_look_for_and_hope_to_see)
 as one of the characteristics highly expected from a candidate.
 
-<iframe src="https://chart-studio.plotly.com/~iradukun/217.embed" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://chart-studio.plotly.com/~iradukun/217.embed" width="700" height="600" frameborder="0" scrolling="no"></iframe>
 A substantial proportion of candidates without any prior revisions faces rejection, with only 32.2% of them experiencing a successful election. Within the group of candidates with prior revisions, although the numerical difference between the 47.4% of rejected candidates and the 52.6% of accepted candidates may appear small, a statistical t-test suggests that this difference is indeed significant.
 Therefore, if you find yourself lacking an edit history, consider actively participating in wiki page revisions to demonstrate your commitment and increase your chances of a successful adminship candidacy.
 

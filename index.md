@@ -181,8 +181,7 @@ As we delved into the feedback from voters, several key insights emerged regardi
 <br>
 <br>
 <br>
-<br>
-. Within these Word Clouds, numerous insightful recommendations for aspiring administrators come to light. Criteria related to experience, such as "need experience", "low edit count", and "low activity" are discernible. Additionally, a diverse range of knowledge in various Wikipedia domains, such as "edit summary", "deletion", and "vandal fighter" is highlighted. Furthermore, a crucial aspect is familiarity with Wikipedia policies. Several aspects with a negative nature come to the forefront, potentially indicating areas where the future administrator should concentrate their attention. However, positive attributes are also evident, such as being a "great editor", a "great article writer" or a "great contributor".
+<br> Within these Word Clouds, numerous insightful recommendations for aspiring administrators come to light. Criteria related to experience, such as "need experience", "low edit count", and "low activity" are discernible. Additionally, a diverse range of knowledge in various Wikipedia domains, such as "edit summary", "deletion", and "vandal fighter" is highlighted. Furthermore, a crucial aspect is familiarity with Wikipedia policies. Several aspects with a negative nature come to the forefront, potentially indicating areas where the future administrator should concentrate their attention. However, positive attributes are also evident, such as being a "great editor", a "great article writer" or a "great contributor".
 
 💡 **Hint:** Refer to the following resources for a comprehensive understanding:
 

@@ -101,7 +101,9 @@ In our quest to uncover these dynamics, we've constructed three essential networ
  
 * **Similarity Network:** This network draws connections between users who have regularly interacted with the same Wikipedia articles. By doing so, it unveils the relationships among users based on their shared interactions with specific Wikipedia content.
  
-We then apply Louvain's algorithm to extract communities within these graphs, shifting our focus towards analyzing interactions within these communities and exploring the dynamics between different communities. Here are our main findings:
+We then apply Louvain's algorithm to extract communities within these graphs, shifting our focus towards analyzing interactions within these communities and exploring the dynamics between different communities.
+
+##### Let's look at the analysis conducted on the communities detected by Louvain's algorithm, both on the agreement network and the similarity network...
 
 **1.** Users with a substantial history of mutual agreement tend to reciprocate with positive votes towards each other more frequently. Therefore, you must focus on fostering agreements and collaborations with other users. Engage actively in discussions, collaborate on editing projects, and aim to align your viewpoints with fellow community members. Building these alliances can increase the likelihood of receiving positive votes for your candidacy.
 
@@ -115,7 +117,7 @@ We then apply Louvain's algorithm to extract communities within these graphs, sh
 
 <iframe src="https://chart-studio.plotly.com/~iradukun/198.embed" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://chart-studio.plotly.com/~iradukun/203.embed" width="800" height="700" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://chart-studio.plotly.com/~iradukun/208.embed" width="800" height="700" frameborder="0" scrolling="no"></iframe>
 
 Just like in your day-to-day interactions, here on Wikipedia, networking is crucial. Building positive relationships, engaging with the right individuals, and steering clear of conflicts can significantly boost your chances of success in the elections. Your network of supporters and allies can sway votes in your favor, underscoring the importance of nurturing these social connections.
 

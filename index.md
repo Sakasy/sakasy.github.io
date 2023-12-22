@@ -122,7 +122,7 @@ We then apply Louvain's algorithm to extract communities within these graphs, sh
 Just like in your day-to-day interactions, here on Wikipedia, networking is crucial. Building positive relationships, engaging with the right individuals, and steering clear of conflicts can significantly boost your chances of success in the elections. Your network of supporters and allies can sway votes in your favor, underscoring the importance of nurturing these social connections.
 
 ##### <span style="color:green">A Farewell Message for the Future Administrator:</span>
-
+<br>
 Dear Future Wikipedia Administrator,
 
 Becoming a Wikipedia administrator isn't just about gaining a title; it's about embracing a thrilling journey filled with challenges and opportunities. Your path to success combines the finesse of editing and creating content with the art of engaging with the community. Being an active member, contributing regularly, and fostering relationships with your peers are the keys that unlock the doors to victory.

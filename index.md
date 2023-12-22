@@ -101,6 +101,15 @@ In essence, actively engaging as a voter in wiki RfA elections before your candi
 
 However, participating previously as a voter in the wiki RfA is not an experience in itself, right? So, let's now analyze the influence of having done revisions on a page of the English Wikipedia.
 
+For this task, we use an additional dataset that provides the number of edits made by each candidate and explains 44.07% of the wiki dataset and the plot below shows us the difference in the number of edits for each outcome.
+
+<iframe src="https://chart-studio.plotly.com/~iradukun/225.embed" width="700" height="600" frameborder="0" scrolling="no"></iframe>
+
+After running statistical tests, we found a P-value of 0.02, showing a meaningful difference in the average number of edits between elected and rejected candidates. As a result, we can say that engaging in edits boosts the likelihood of getting elected. Developing the skill of making edits, therefore, turns out to be an interesting and useful ability to gain if you plan to become a Wikipedia administrator.
+
+However, it's crucial to note that this dataset lacks timestamp information. Consequently, the edits we consider here may have occurred after the candidate's election, potentially impacting the significance of the results for you, our future candidate. To address this, we have employed a more complete dataset, this time including the month in which the edits were made. We then assess, for each candidate, the number of revisions performed prior to their election.
+
+
 <iframe src="https://chart-studio.plotly.com/~iradukun/214.embed" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 The graph above indicates that 81% of the candidates had previously made revisions on a wiki page before their candidacy, with half of them having completed more than 3500 revisions before running for adminship. From our dataset, we cannot precisely determine the significance of these revisions, but as observed, it is a prevalent trend among candidates to showcase their commitment to the Wikipedia community through editing work. If you currently lack an edit history in your account, you might want to reconsider and roll up your sleeves, as this is even cited in 
 [the Wikipedia guide for Requests for RfA](https://en.wikipedia.org/wiki/Wikipedia:Guide_to_requests_for_adminship#What_RfA_contributors_look_for_and_hope_to_see)

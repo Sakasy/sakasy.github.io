@@ -179,8 +179,14 @@ As we delved into the feedback from voters, several key insights emerged regardi
 
 {% include button.html text="Edit summary ✍️" link="https://en.wikipedia.org/wiki/Help:Edit_summary" %}{% include button.html text="Mainspace 📜" link="https://en.wikipedia.org/wiki/Template:User_mainspace_edits" %}{% include button.html text="Wikipedia policies ⚖️" link="https://en.wikipedia.org/wiki/Category:Wikipedia_policies" %}{% include button.html text="Deletion 🧹" link="https://en.wikipedia.org/wiki/Wikipedia:Guide_to_deletion" %}{% include button.html text="Deal with vandalism ⚠️" link="https://en.wikipedia.org/wiki/Wikipedia:How_to_deal_with_vandalism" %}
 
+### What voting patterns should I adopt before candidating?
+
+<iframe src="https://chart-studio.plotly.com/~iradukun/221.embed" width="700" height="600" frameborder="0" scrolling="no"></iframe>
+
+The graph shows a significant difference between the similar votes of elected and non-elected individuals. We also performed a statistical test that supports the fact that there is indeed a significant difference. The result suggests that individuals who vote with the majority are more likely to get elected. Therefore, if you aim to increase your chances of being elected, it would be strategic to align your voting with the majority.
 
 ### Important point not to neglect
+
 Your interactions, affiliations, and connections will all play a significant role in influencing how other users may or may not support. The following section will show you some important aspects you will have to take into account before you embark on your path towards candidacy.
 ##### Unveiling the Influence of Group-Belonging on Voting Behavior
 Have you ever wondered how belonging to specific groups or communities affects the way people vote? Well, within Wikipedia elections, these affiliations can heavily influence voting tendencies. Whether it's being part of editing circles, sharing common interests, or fostering alliances through interactions, these connections impact how individuals make their electoral choices.
@@ -214,7 +220,7 @@ We then apply Louvain's algorithm to extract communities within these graphs, sh
 Just like in your day-to-day interactions, here on Wikipedia, networking is crucial. Building positive relationships, engaging with the right individuals, and steering clear of conflicts can significantly boost your chances of success in the elections. Your network of supporters and allies can sway votes in your favor, underscoring the importance of nurturing these social connections.
 
 {% include figure.html image="meme.jpg" width="600" height="600" %}
-
+<br>
 ##### <span style="color:green">A Farewell Message for the Future Administrator:</span>
 <br>
 Dear Future Wikipedia Administrator,

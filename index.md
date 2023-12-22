@@ -110,7 +110,7 @@ as one of the characteristics highly expected from a candidate.
 A substantial proportion of candidates without any prior revisions faces rejection, with only 32.2% of them experiencing a successful election. Within the group of candidates with prior revisions, although the numerical difference between the 47.4% of rejected candidates and the 52.6% of accepted candidates may appear small, a statistical t-test suggests that this difference is indeed significant.
 Therefore, if you find yourself lacking an edit history, consider actively participating in wiki page revisions to demonstrate your commitment and increase your chances of a successful adminship candidacy.
 
-Overall, in this first part of our analysis, you have seen that while surpassing the 75% threshold for the percentage of positive votes is crucial, there are additional factors that can bolster your candidacy. So far, these factors can be categorized into two groups:
+Overall, in this first part of our analysis, you have seen that while surpassing the 75% threshold for the percentage of positive votes is crucial, there are additional factors that can booster your candidacy. So far, these factors can be categorized into two groups:
 
 - *Factors you can directly influence* : previous participation as a voter in the voting process as well as a history of edits and revisions.
 - *Factors you can indirectly influence* : the number of voters participating in the election and the percentage of neutral votes the candidate receives
